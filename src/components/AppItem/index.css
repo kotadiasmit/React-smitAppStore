@@ -1,0 +1,23 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  margin-bottom: 40px;
+  background-color: aliceblue;
+  border-radius: 5px;
+  min-width: 115px;
+  min-height: 130px;
+  max-height: 150px;
+}
+.app-img {
+  width: 50px;
+}
+.app-name {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+  padding-left: 4px;
+  padding-right: 4px;
+}

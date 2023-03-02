@@ -1,0 +1,19 @@
+.list {
+  list-style-type: none;
+}
+.tab-btn {
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5px;
+  padding-bottom: 8px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 3px solid #dfe2e5;
+  color: #7b8794;
+  font-weight: 600;
+  font-size: 15px;
+  cursor: pointer;
+}
+.addStyle {
+  border-bottom: 3px solid #2563eb;
+}
